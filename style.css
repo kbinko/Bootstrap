@@ -1,0 +1,17 @@
+body {
+    background-color: #4a4a4a;
+    color: #d0d0d0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+}
+
+#border {
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 20px;
+}
